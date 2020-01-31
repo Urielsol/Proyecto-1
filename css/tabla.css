@@ -1,0 +1,14 @@
+table {
+    background: #A5A5A5;
+    height: 350px;
+    width: 500px;
+    border: #b2b2b2 1px solid;     
+  }
+
+  td, th {
+    border: black 1px solid;
+  }
+
+  #8 {
+      font-weight: 100;
+  }
